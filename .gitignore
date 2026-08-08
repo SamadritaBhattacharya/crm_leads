@@ -1,0 +1,12 @@
+CLAUDE.md
+CRM_ARCHITECTURE_php.md
+ENGINEERING_RULES_AND_GOALS.md
+
+# Firebase Admin SDK service account keys (download-only, never committed)
+backend/*firebase*.json
+backend/credentials/
+
+# Environment files
+.env
+.env.local
+.env.*.local

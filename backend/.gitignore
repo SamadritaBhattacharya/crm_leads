@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+
+crm-project-ab1e4-firebase-adminsdk-fbsvc-c94fb8c90d.json
