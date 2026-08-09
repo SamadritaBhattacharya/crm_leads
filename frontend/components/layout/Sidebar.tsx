@@ -91,7 +91,7 @@ export function Sidebar() {
             transition={{ delay: 0.05 }}
             className="truncate text-sm font-semibold text-zinc-800"
           >
-            Alliance Leads
+            Leads
           </motion.span>
         )}
       </div>

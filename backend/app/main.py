@@ -16,7 +16,7 @@ from app.security.rate_limit import limiter
 logger = logging.getLogger(__name__)
 settings = get_settings()
 
-app = FastAPI(title="Alliance Australia Property — Leads CRM API")
+app = FastAPI(title=" Leads Property — Leads CRM API")
 
 app.state.limiter = limiter
 app.add_exception_handler(RateLimitExceeded, _rate_limit_exceeded_handler)

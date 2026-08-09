@@ -1,4 +1,4 @@
-# System Architecture — Alliance Australia Property: Leads CRM
+# System Architecture — Leads Property: Leads CRM
 
 **Companion to:** PRD.md, ENGINEERING_RULES_AND_GOALS.md, TECH_SPEC.md
 **Scope:** greenfield project — Next.js frontend, FastAPI backend, Supabase Postgres. Leads capture + CRM + dashboard. Nothing else.

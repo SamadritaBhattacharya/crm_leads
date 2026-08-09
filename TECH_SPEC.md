@@ -1,4 +1,4 @@
-# Tech Spec — Alliance Australia Property: Leads CRM
+# Tech Spec — Leads Property: Leads CRM
 
 **Companion to:** PRD.md, SYSTEM_ARCHITECTURE.md, ENGINEERING_RULES_AND_GOALS.md
 **Purpose:** implementation-ready contracts. No code, but nothing here should require re-deriving a decision.

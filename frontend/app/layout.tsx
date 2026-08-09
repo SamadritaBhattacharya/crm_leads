@@ -17,8 +17,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Alliance Leads CRM",
-  description: "Staff CRM dashboard — Alliance Australia Property",
+  title: "Leads CRM",
+  description: "Staff CRM dashboard — Leads Property",
 };
 
 export default function RootLayout({

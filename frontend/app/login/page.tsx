@@ -52,7 +52,7 @@ function LoginForm() {
           AA
         </div>
         <div>
-          <h1 className="text-lg font-semibold text-zinc-900">Alliance Leads CRM</h1>
+          <h1 className="text-lg font-semibold text-zinc-900">Leads CRM</h1>
           <p className="text-sm text-zinc-500">Sign in to manage your leads</p>
         </div>
       </div>

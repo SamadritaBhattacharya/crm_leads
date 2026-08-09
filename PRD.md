@@ -1,4 +1,4 @@
-# PRD — Alliance Australia Property: Leads CRM (v1)
+# PRD —  Leads Property: Leads CRM (v1)
 
 **Owner:** Principal Staff Engineer
 **Status:** Final v1
@@ -8,7 +8,7 @@
 
 ## 1. Problem
 
-Alliance Australia Property needs a system to receive property valuation leads (residential, commercial, rural, plus general quote requests) and let staff work them — see them arrive live, filter, assign, note, and move through a status pipeline.
+ Leads Property needs a system to receive property valuation leads (residential, commercial, rural, plus general quote requests) and let staff work them — see them arrive live, filter, assign, note, and move through a status pipeline.
 
 **This repo is the CRM only** — a FastAPI backend + a Next.js staff dashboard. **The lead-capture forms themselves live in a separate, independently maintained website/repo, outside this project entirely.** That other codebase's stack, deploy pipeline, and release cycle are not ours to control or assume. Our responsibility ends at, and starts from, a versioned public API contract: `POST /api/leads`. Anything upstream of that call is someone else's system.
 

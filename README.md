@@ -2,7 +2,7 @@
 
 CRM + AI + Data
 
-A leads CRM for Alliance Australia Property: a public lead-capture API, an authenticated staff dashboard for managing leads, and analytics on valuation activity. Built with a **FastAPI** backend and a **Next.js** frontend, backed by **Postgres (Supabase)**.
+A leads CRM for Leads Property: a public lead-capture API, an authenticated staff dashboard for managing leads, and analytics on valuation activity. Built with a **FastAPI** backend and a **Next.js** frontend, backed by **Postgres (Supabase)**.
 
 This repo owns the CRM only — the marketing site's lead-capture forms live in a separate repo and integrate against `POST /api/leads` as a versioned public contract.
 

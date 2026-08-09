@@ -64,7 +64,7 @@ function SignupForm() {
         </div>
         <div>
           <h1 className="text-lg font-semibold text-zinc-900">Create your account</h1>
-          <p className="text-sm text-zinc-500">Join Alliance Australia Property CRM</p>
+          <p className="text-sm text-zinc-500">Join Leads Property CRM</p>
         </div>
       </div>
 
